@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Smantii and I'm a PhD student at Scuola Superiore Sant'Anna.
+- 👋 Hi, I’m @Smantii and I'm a PhD student at Aarhus University.
 - 👀 I’m interested in AI, Mathematics and Physics. In particular, when they intersect!
 - 💞️ I’m looking to collaborate on people with different background, in order to learn more and more!
 - 📫 How to reach me: manti998-at-gmail.com (replace -at- with @).
