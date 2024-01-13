@@ -16,7 +16,7 @@
 
 - :seedling: I’m looking to collaborate on people with different background, in order to learn more and more!
 
-- :zap: In my free time, I play videogames (huge Nintendo fan), watch anime or read books.
+- :zap: In my free time, I enjoy playing videogames (Nintendo fan here), watching anime and reading books.
 
 - :mailbox:How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-manti-653054210/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manti998@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:smanti@mpe.au.dk)
 
