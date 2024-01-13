@@ -10,7 +10,7 @@
 ---
 
 ### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a PhD student in Engineering at Aarhus University.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a PhD student in Mechanical and Production Engineering at Aarhus University.
 
 - :telescope: I’m interested in AI, Mathematics and Physics. In particular, when they intersect!
 
