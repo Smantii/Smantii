@@ -17,6 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+*"Talent is the ability to prove one's strength. Gambling their future, believing in themselves and their dreams, and proving to the world their strength is real."*, Ego Jinpachi
 
 
 ---
