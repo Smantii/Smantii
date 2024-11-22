@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="300"/>
 </div>
 
@@ -37,7 +37,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=roxionsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)">
 </div>
 
