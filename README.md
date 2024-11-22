@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+
 ---
 
 ### :man_technologist: About Me :
@@ -35,6 +37,9 @@
 
 ---
 
+<div align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=roxionsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)">
+</div>
 
 <!---
 Smantii/Smantii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
