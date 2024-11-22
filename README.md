@@ -7,13 +7,13 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
- <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="400", height="278"/>
+ <img src="https://media1.tenor.com/m/fRSrGTkJ-XkAAAAd/naraku-anime.gif" width="400", height="278"/>
   <img width="200" height="278" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=roxionsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)">
 </div>
 
 
 <h1>
-  Hey there
+  Yo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -21,8 +21,8 @@
 
 ---
 
-### :man_technologist: About Me :
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a PhD student in Mechanical and Production Engineering at Aarhus University.
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me :
+I'm currently a PhD student in Mechanical Engineering at Aarhus University. I got a MSc in Applied Mathematics at University of Pisa, and previously a BSc in Pure Mathematics in the same university. 
 
 - :telescope: I’m interested in AI, Mathematics and Physics. In particular, when they intersect!
 
