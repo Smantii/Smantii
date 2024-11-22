@@ -1,6 +1,16 @@
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="300"/>
+  
 </div>
+
+<div align="right">
+ 
+</div>
+
+<div style="display: flex; flex-direction: row;">
+ <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="400", height="278"/>
+  <img width="200" height="278" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=roxionsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)">
+</div>
+
 
 <h1>
   Hey there
@@ -37,9 +47,7 @@
 
 ---
 
-<div align="left">
-  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=roxionsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)">
-</div>
+
 
 <!---
 Smantii/Smantii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
