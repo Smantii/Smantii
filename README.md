@@ -14,7 +14,7 @@
 
 <h1>
   Yo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media1.tenor.com/m/C5WKAiQ_XbQAAAAd/hello-chat-gif-satoru-gojo.gif" width="50px"/>
 </h1>
 
 *"Talent is the ability to prove one's strength. Gambling their future, believing in themselves and their dreams, and proving to the world their strength is real."*, Ego Jinpachi
@@ -22,7 +22,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About Me :
+### <img src="https://media1.tenor.com/m/YjyN4su14BkAAAAd/persona-futaba.gif" width="50">  About Me :
 I'm currently a PhD student in Mechanical Engineering at Aarhus University. I got a MSc in Applied Mathematics at University of Pisa, and previously a BSc in Pure Mathematics in the same university. 
 
 - :telescope: I’m interested in AI, Mathematics and Physics. In particular, when they intersect!
@@ -31,11 +31,13 @@ I'm currently a PhD student in Mechanical Engineering at Aarhus University. I go
 
 - :zap: In my free time, I enjoy playing videogames, watching anime and reading books.
 
-- :mailbox:How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-manti-653054210/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manti998@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:smanti@mpe.au.dk)
+- :mailbox:How to reach me:
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-manti-653054210/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manti998@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:smanti@mpe.au.dk)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0bnJkZmwxam16aTVyNXV0bXd6OGFsODh5bmhhcHg2NTlxN21qNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je0ZdFV02q7wncc/giphy.webp" width="50"> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
