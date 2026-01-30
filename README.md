@@ -25,9 +25,9 @@
 ### <img src="https://media1.tenor.com/m/YjyN4su14BkAAAAd/persona-futaba.gif" width="50">  About Me :
 I am a postdoctoral researcher at Aarhus University, working at the intersection of scientific machine learning, computational physics, high-performance computing, and applied mathematics. I obtained my PhD in Mechanical Engineering from Aarhus University, where I conducted my doctoral research within the same group. I got a MSc in Applied Mathematics at University of Pisa, and previously a BSc in Pure Mathematics in the same university. 
 
-- :telescope: I aminterested in AI, Mathematics and Physics. In particular, when they intersect!
+- :telescope: I am interested in AI, Mathematics and Physics. In particular, when they intersect!
 
-- :seedling: I amlooking to collaborate with people from different background, in order to learn more and more!
+- :seedling: I am looking to collaborate with people from different background, in order to learn more and more!
 
 - :zap: In my free time, I enjoy playing videogames, watching anime and reading books.
 
