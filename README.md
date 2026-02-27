@@ -1,17 +1,3 @@
-<div id="header" align="left">
-  
-</div>
-
-<div align="right">
- 
-</div>
-
-<div style="display: flex; flex-direction: row;">
- <img src="https://media1.tenor.com/m/fRSrGTkJ-XkAAAAd/naraku-anime.gif" width="400", height="278"/>
-  <img width="200" height="278" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=roxionsm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)">
-</div>
-
-
 <h1>
   Hello!
   <img src="https://media1.tenor.com/m/C5WKAiQ_XbQAAAAd/hello-chat-gif-satoru-gojo.gif" width="50px"/>
@@ -29,7 +15,7 @@ I am a postdoctoral researcher at Aarhus University, working at the intersection
 
 - :seedling: I am looking to collaborate with people from different background, in order to learn more and more!
 
-- :zap: In my free time, I enjoy playing videogames, watching anime and reading books.
+- :zap: In my free time, I enjoy playing videogames, watching some series and reading books.
 
 - :mailbox:How to reach me:
 
