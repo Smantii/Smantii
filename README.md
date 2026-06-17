@@ -9,7 +9,7 @@
 ---
 
 ### <img src="https://media1.tenor.com/m/YjyN4su14BkAAAAd/persona-futaba.gif" width="50">  About Me :
-I am a Machine Learning for Computational Materials Science Intern at Compular, working on the development, benchmarking and optimization of ML pipelines for material and formulation properties. Previously, I was a postdoctoral researcher at Aarhus University, working at the intersection of scientific machine learning, computational physics, high-performance computing, and applied mathematics. I obtained my PhD in Mechanical Engineering at Aarhus University, where I conducted my doctoral research within the same group. I got a MSc in Applied Mathematics at University of Pisa, and previously a BSc in Pure Mathematics in the same university. 
+I am a Machine Learning Engineer at Compular, working on the development, benchmarking and optimization of ML pipelines for material and formulation properties. Previously, I was a postdoctoral researcher at Aarhus University, working at the intersection of scientific machine learning, computational physics, high-performance computing, and applied mathematics. I obtained my PhD in Mechanical Engineering at Aarhus University, where I conducted my doctoral research within the same group. I got a MSc in Applied Mathematics at University of Pisa, and previously a BSc in Pure Mathematics in the same university. 
 
 - :telescope: I am interested in AI, Mathematics and Physics. In particular, when they intersect!
 
