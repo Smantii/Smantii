@@ -63,13 +63,14 @@ class SimoneManti(MLEngineer):
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0bnJkZmwxam16aTVyNXV0bXd6OGFsODh5bmhhcHg2NTlxN21qNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je0ZdFV02q7wncc/giphy.webp" width="40"> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,anaconda,jupyter,git,github,linux,bash,vscode,latex,matlab,r,c&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,anaconda,git,github,linux,bash,vscode,latex,matlab,r,c&perline=13" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAX-0B4A8F?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slurm_·_HPC-2E3440?style=flat-square&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM_Agents-D97757?style=flat-square&logo=probot&logoColor=white"/>
